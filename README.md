@@ -9,7 +9,7 @@ A modern, responsive, and user-friendly frontend Healthcare website designed to 
 Here is a glimpse of the platform's user interface:
 
 ### 🖥️ Desktop View
-![Homepage Desktop Preview](<img width="1920" height="3371" alt="screencapture-127-0-0-1-5500-HealthCare-html-2026-05-30-04_47_05" src="https://github.com/user-attachments/assets/6b0feb3a-39ca-468c-be3a-3f108f853eba" />
+![Homepage Desktop Preview](<img width="1920" height="3371" alt="screencapture-127-0-0-1-5500-HealthCare-html-2026-05-30-04_47_05" src="https://github.com/user-attachments/assets/b50d75c9-f4cf-4a09-9636-2d9b59cf2a4a" />
 )
 
 
