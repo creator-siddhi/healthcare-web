@@ -13,8 +13,6 @@ Here is a glimpse of the platform's user interface:
 )
 
 
-> **Note:** To replace these placeholders with your actual screenshots, upload your images to GitHub (e.g., inside an `images/` or `assets/` folder in your repo) and update the image paths above to `assets/your-image.png`.
-
 ---
 
 ## ✨ Features
