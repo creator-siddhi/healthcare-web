@@ -1,6 +1,6 @@
 # 🏥 HealthCare Website
 
-A modern, responsive, and user-friendly frontend Healthcare website designed to connect patients with medical services effortlessly. This project features a clean UI, intuitive navigation, and interactive elements to provide a seamless user experience.<img width="1920" height="3371" alt="screencapture-127-0-0-1-5500-HealthCare-html-2026-05-30-04_47_05" src="https://github.com/user-attachments/assets/17b55a75-b4c9-4486-822c-13018bf7cc29" />
+A modern, responsive, and user-friendly frontend Healthcare website designed to connect patients with medical services effortlessly. This project features a clean UI, intuitive navigation, and interactive elements to provide a seamless user experience.
 
 ---
 
@@ -9,7 +9,7 @@ A modern, responsive, and user-friendly frontend Healthcare website designed to 
 Here is a glimpse of the platform's user interface:
 
 ### 🖥️ Desktop View
-![Homepage Desktop Preview]()
+![Homepage Desktop Preview](<img width="1920" height="3371" alt="screencapture-127-0-0-1-5500-HealthCare-html-2026-05-30-04_47_05" src="https://github.com/user-attachments/assets/17b55a75-b4c9-4486-822c-13018bf7cc29" />)
 
 
 > **Note:** To replace these placeholders with your actual screenshots, upload your images to GitHub (e.g., inside an `images/` or `assets/` folder in your repo) and update the image paths above to `assets/your-image.png`.
